@@ -1,0 +1,1 @@
+Linux ubuntu-linux-22-04-desktop 6.8.0-47-generic #47-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 27 22:03:50 UTC 2024 aarch64 aarch64 aarch64 GNU/Linux
