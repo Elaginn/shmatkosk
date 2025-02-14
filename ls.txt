@@ -1,0 +1,10 @@
+total 28K
+drwxrwxr-x 3 parallels parallels 4.0K Feb 14 12:44 ./
+drwxr-xr-x 5 parallels parallels 4.0K Feb 14 12:35 ../
+drwxrwxr-x 8 parallels parallels 4.0K Feb 14 12:44 .git/
+-rw-rw-r-- 1 parallels parallels   11 Feb 14 12:35 README.md
+-rw-rw-r-- 1 parallels parallels  584 Feb 14 12:42 config.txt
+-rw-rw-r-- 1 parallels parallels  147 Feb 14 12:35 first.txt
+-rw-rw-r-- 1 parallels parallels    0 Feb 14 12:44 ls.txt
+-rw-rw-r-- 1 parallels parallels  199 Feb 14 12:35 status.txt
+-rw-rw-r-- 1 parallels parallels    0 Feb 14 12:44 tree.txt
