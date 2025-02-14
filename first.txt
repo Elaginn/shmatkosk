@@ -1,0 +1,5 @@
+commit ad1c379e0c1db460af922ea8319f55c0f43010bd
+Author: Elaginn <semen10042004@mail.ru>
+Date:   Fri Feb 14 12:35:06 2025 +0300
+
+    Initial commit
